@@ -1,0 +1,15 @@
+[project]
+name = "essentials"
+version = "0.1.0"
+description = "Library of MCP necessities"
+readme = "README.md"
+authors = [
+    {name = "Rustellar"}
+]
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "duckduckgo-search>=7.5.2",
+    "mcp[cli]>=1.4.1",
+    "requests>=2.32.3",
+]
