@@ -8,3 +8,4 @@ Essentials provides the following features.
 
 1. Internet Search with DuckDuckGo
 2. Python playground
+3. Rust playground
